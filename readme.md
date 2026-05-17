@@ -48,6 +48,6 @@ Each transaction was spread across 20 columns instead of one row per basket. The
 | seaborn | Statistical visualizations |
 | mlxtend | Apriori algorithm implementation |
 
-### Installation:
+### Installations:
 ```bash
 pip install pandas numpy matplotlib seaborn mlxtend
